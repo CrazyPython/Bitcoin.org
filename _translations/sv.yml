@@ -539,7 +539,7 @@ sv:
     source: "Källkod"
     versionhistory: "Visa versionshistorik"
     notelicense: "Bitcoin Core drivs av en community som utvecklar projektet som <a href=\"https://www.fsf.org/about/what-is-free-software\">fri mjukvara</a> som publiceras under <a href=\"http://opensource.org/licenses/mit-license.php\">MIT-licensen</a>."
-    notesync: "Bitcoin Cores inledande synkronisering tar tid och laddar ner mycket data. Se till att du har tillräcklig bandbredd och lagringskapacitet för den fullständiga blockkedjans storlek (mer än {{site.text.bitcoin_datadir_gb}}GB). Om du har en bra internetuppkoppling kan du hjälpa till att stärka nätverket genom att låta din PC köra Bitcoin Core och ha port 8333 öppen."
+    notesync: "Bitcoin Cores inledande synkronisering tar tid och laddar ner mycket data. Se till att du har tillräcklig bandbredd och lagringskapacitet för den fullständiga blockkedjans storlek (mer än {{site.text.bitcoin_datadir_gb_pruned}}GB). Om du har en bra internetuppkoppling kan du hjälpa till att stärka nätverket genom att låta din PC köra Bitcoin Core och ha port 8333 öppen."
     full_node_guide: "Läs <a href=\"/en/full-node\">guiden för fullständig nod</a> för mer information."
     patient: "Kontrollera din bandbredd och lagringskapacitet"
     releasekeys: "Signeringsnycklar för frisläppning av Bitcoin Core"
